@@ -4,4 +4,6 @@
 
 # Welcome to the Rocket Repository
 
+----
+
 ## Rocket is a interpreter built with Pascal and Python
